@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to JSON",
+      "datetime": "August 8, 2023 09:00:00",
+      "body": "JSON (JavaScript Object Notation) is a lightweight data-interchange format."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with Python",
+      "datetime": "August 8, 2023 14:30:00",
+      "body": "Python is a powerful and easy-to-learn programming language."
+    },
+    {
+      "id": 3,
+      "title": "Healthy Eating Tips",
+      "datetime": "August 8, 2023 12:15:00",
+      "body": "Eating a balanced diet with fruits and vegetables is essential for good health."
+    },
+    {
+      "id": 4,
+      "title": "Exploring Space: The Universe and Beyond",
+      "datetime": "August 8, 2023 18:00:00",
+      "body": "Space exploration has revealed many fascinating discoveries about our universe."
+    },
+    {
+      "id": 5,
+      "title": "How to Practice Mindfulness",
+      "datetime": "August 10, 2023 10:01:39 PM",
+      "body": "Mindfulness involves nothing\n"
+    }
+  ]
+}
